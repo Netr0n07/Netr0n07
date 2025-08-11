@@ -37,7 +37,7 @@
 
 ## 📌 Featured Projects
 
-- **[PlanTogether](https://github.com/Netr0n07/PlanTogether)** — Event scheduling platform with best-time calculation.
+- **[PlanTogether](https://github.com/Netr0n07/Plan-Together)** — Event scheduling platform with best-time calculation.
 ---
 
 ## 🤝 Connect with me
